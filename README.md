@@ -199,3 +199,4 @@ SR No   | Project | Author
 102 | [Zip Bruter](https://github.com/Python-World/python-mini-projects/tree/master/projects/Zip_Bruter) | [Erdoğan YOKSUL](https://www.github.com/eredotpkfr)
 103 | [CountDown Timer](https://github.com/Python-World/python-mini-projects/tree/master/projects/Countdown_timer) | [Japneet Kalra](https://github.com/japneetsingh035)
 LINE FOR CONFLICT - FEATURE
+This project demonstrates Git branching and conflict resolution.
